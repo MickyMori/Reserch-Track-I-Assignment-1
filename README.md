@@ -20,7 +20,7 @@ Flowchart
 
 This is a flowchart that summarizes the key points of the program. The rectangular blocks rappresent the actions while the rhombuses rappresent the decisions. The image below, if clicked, will open the web page of the flowchart so that it can be viewed bigger and with higher resolution. 
 
-[![Flowchart](/images/flowchart.png "Flowchart")](https://cloud.smartdraw.com/share.aspx/?pubDocShare=94744E9FF2B39A0C7DEE78BF27810A626DA)
+[![Flowchart](/Images/flowchart.png "Flowchart")](https://cloud.smartdraw.com/share.aspx/?pubDocShare=94744E9FF2B39A0C7DEE78BF27810A626DA)
 
 Possible improvements
 ---------------------
